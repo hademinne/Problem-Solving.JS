@@ -7,7 +7,6 @@
 
 function countBy(x, n) {
   let z = [];
-  let count = 0;
   // z.push(x, n);
   for (let i = 1; i <= n; i++) {
     z.push(x * i);
