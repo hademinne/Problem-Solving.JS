@@ -9,5 +9,4 @@ ex: ['hi', 'there'] => 'hi there'
 function smash(words) {
   return words.join(" ");
 }
-
 console.log(smash(["hi", "there"]));
