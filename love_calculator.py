@@ -33,7 +33,7 @@ print(love_score)
 if love_score >10 or love_score== 90:
   print(f'Your score is {love_score} you go together like coke and Mentos.')
 
-elif 40=< love_score and love_score<= 50:
+elif 40< love_score and love_score<= 50:
    print(f'Your score is {love_score} you are alright together.')
 
 
